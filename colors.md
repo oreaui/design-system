@@ -48,11 +48,3 @@ A complete reference for Orea's color system, including semantic color tokens, t
 | **Success** | `#10B981` | `rgb(16, 185, 129)` | Success states and positive feedback |
 | **Warning** | `#F59E0B` | `rgb(245, 158, 11)` | Warnings and caution indicators |
 | **Danger** | `#F43F5E` | `rgb(244, 63, 94)` | Errors, destructive actions, and critical states |
-
----
-
-## Notes
-
-- All values are extracted from the official Orea Figma design file.
-- Color names represent semantic design tokens rather than component-specific styles.
-- Tokens are intended to be platform-agnostic and can be mapped to CSS Variables, Tailwind, React, Framer, or other design systems.
