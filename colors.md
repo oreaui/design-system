@@ -5,7 +5,7 @@
 | Token / Element Name | HEX Code | RGB / Opacity Values | Design Layer / Usage |
 | :--- | :--- | :--- | :--- |
 | **Canvas / Main Background** | `#080808` | `rgb(8, 8, 8)` | Main canvas & page background (`get-start`) |
-| **Template Background** | `#0A0A0A` | `rgb(10, 10, 10)` | Main template and card background |
+| **Card Background** | `#0A0A0A` | `rgb(10, 10, 10)` | card background |
 | **Surface Card Background** | `#161616` | `rgb(22, 22, 22)` | Secondary card and dialog background |
 | **Overlay / Border Dark** | `#262626` | `rgba(38, 38, 38, 0.8)` | Layered borders and button backgrounds |
 | **Overlay Subtle** | `#262626` | `rgba(38, 38, 38, 0.6)` | Hover background for containers and inputs |
