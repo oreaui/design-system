@@ -1,4 +1,4 @@
-# Orea Premium UI Kit — Design System & Style Tokens
+# Orea Design System
 
 Contains all HEX color codes, RGB, Opacity, CSS variables, typography, and design system specifications extracted from Figma (`node-id=18-1019` & `Orea-Premium UI Kit`).
 
