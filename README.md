@@ -1,4 +1,4 @@
-# Orea Design System
+# Orea Design Tokens
 
 Contains all HEX color codes, RGB, Opacity, CSS variables, typography, and design system specifications extracted from Figma (`node-id=18-1019` & `Orea-Premium UI Kit`).
 
